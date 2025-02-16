@@ -17,7 +17,7 @@ Mapty is an interactive workout tracking application that allows users to log an
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mapty-project
+   cd mapty
    ```
 3. Open the application:
    - Open `14.html` in your browser
